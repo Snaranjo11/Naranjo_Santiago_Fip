@@ -6,12 +6,12 @@
 Welcome to the Couple Resort repository! This project aims to Build the website of a resort for couples where we will find the different pages that will show everything about the resort such as: activities, reservations, rooms, etc.
 
 ## Features
-[Home]: Website overview.
-[Rooms]: Different rooms to book.
-[Packages]: All the packages we offer to our clients.
-[Dining]: Meal menu and everything that has to do with food.
-[Spa Activities]: Different spa activities for relaxation.
-[Reservation]: Booking page
+- [Home]: Website overview.
+- [Rooms]: Different rooms to book.
+- [Packages]: All the packages we offer to our clients.
+- [Dining]: Meal menu and everything that has to do with food.
+- [Spa Activities]: Different spa activities for relaxation.
+- [Reservation]: Booking page
 
 ## Installation
 To install Couple resort, follow these steps:
