@@ -1,4 +1,4 @@
-[FIP - Final Integrated Project]
+**##[FIP - Final Integrated Project]**
 Overview
 Welcome to the Couple Resort repository! This project aims to Build the website of a resort for couples where we will find the different pages that will show everything about the resort such as: activities, reservations, rooms, etc.
 
